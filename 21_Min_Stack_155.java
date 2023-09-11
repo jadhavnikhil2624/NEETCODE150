@@ -27,6 +27,7 @@ class MinStack {
     return min_vals.peek();
   }
 }
+
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
